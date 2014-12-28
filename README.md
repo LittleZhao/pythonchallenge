@@ -1,4 +1,4 @@
 pythonchallenge
 ===============
 
-pythonchallenge code
+code for pythonchallenge.com
